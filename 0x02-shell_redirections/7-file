@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Enugu School">'\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)'
+echo "Enugu School">'\*\\'\""Enugu School"\'\"\\*$\?\*\*\*\*\*:)'
